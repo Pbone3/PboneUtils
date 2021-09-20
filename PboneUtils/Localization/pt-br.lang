@@ -1,0 +1,290 @@
+// ITEMS
+// Storage
+ItemName.PetrifiedSafe = Cofre Petrificado
+ItemTooltip.PetrifiedSafe = Invoca um cofre voador para armazenar seus itens
+
+ItemName.DefendersCrystal = Cristal do Defensor
+ItemTooltip.DefendersCrystal = Invoca um cristal que permite acessar a forja do defensor
+
+// Liquid
+ItemName.BottomlessHoneyBucket = Balde Sem Fundo com Mel
+ItemTooltip.BottomlessHoneyBucket = Contém uma quantidade infinita de mel\nPode ser despejado
+
+ItemName.SuperSweetSponge = Bolo-Esponja
+ItemTooltip.SuperSweetSponge = Capaz de absorver uma quantidade infinita de mel
+
+ItemName.BottomlessLavaBucket = Balde Sem Fundo com Lava
+ItemTooltip.BottomlessLavaBucket = Contém uma quantidade infinita de lava\nPode ser derramada
+
+ItemName.HeatAbsorbantSponge = Esponja Absorvente de Calor
+ItemTooltip.HeatAbsorbantSponge = Capaz de absorver uma quantidade infinita de lava
+
+ItemName.LiquidCombo = O Plano-Mestre
+ItemTooltip.LiquidCombo = Permite o controle definitivo sobre os líquidos!\nClique com o botão direito enquanto segura para editar as configurações
+
+// Magnets
+ItemName.DeluxeTreasureMagnet = Íma de Tesouros de Luxo
+ItemTooltip.DeluxeTreasureMagnet = Aumenta bastante a amplitude da coleta de itens\nFunciona no seu inventário\n{$Mods.PboneUtils.Common.CanBeToggled}
+
+ItemName.HallowedMagnet = Ímã de Tesouros Consagrada
+ItemTooltip.HallowedMagnet = Aumenta massivamente a amplitude de coleta de itens\nFunciona em seu inventário\n{$ Mods.PboneUtils.Common.CanBeToggled}
+
+ItemName.SpectreTreasureMagnet = Ímã de Tesouros Espectral
+ItemTooltip.SpectreTreasureMagnet = Teleporta itens próximos para o seu inventário\nFunciona em seu inventário\n{$ Mods.PboneUtils.Common.CanBeToggled}
+
+ItemName.RunicTreasureMagnet = Ímã de Tesouros Rúnica
+ItemTooltip.RunicTreasureMagnet = Teleporta rapidamente itens próximos para o seu inventário\nFunciona em seu inventário\n{$ Mods.PboneUtils.Common.CanBeToggled}\n'Não puxará a lua para baixo, provavelmente'
+
+ItemName.MoonLordTreasureMagnet = Ímã do Tesouro Arcana
+ItemTooltip.MoonLordTreasureMagnet = Teleporta itens próximos em seu inventário na velocidade do som\nFunciona em seu inventário\n{$ Mods.PboneUtils.Common.CanBeToggled}\n'Ok,agora ISTO definitivamente pode puxar a lua'
+
+// World Control
+ItemName.FluxCapacitor = Capacitor de Fluxo
+ItemTooltip.FluxCapacitor = Alterna da noite para o dia\nClique com o botão direito para alternar o tempo acelerado\n'Tem capacidade para 1,21 gigawatts!'
+
+ItemName.AmuletOfRain = Amuleto da Chuva
+ItemTooltip.AmuletOfRain = Inicia ou para as chuvas\n'Ingresso só de ida para as nuvens'
+
+ItemName.AmuletOfSandstorms = Amuleto das Tempestades de Areia
+ItemTooltip.AmuletOfSandstorms = Inicia ou para as tempestades de areia\ n'Gera uma tacada difícil'
+
+// Ammo
+ItemName.EndlessFlamingArrow = Aljava Flamejante Ilimitada
+ItemName.EndlessUnholyArrow = Aljava Profana Ilimitada
+ItemName.EndlessJesterArrow = Aljava Jester Ilimitada
+ItemName.EndlessHellfireArrow = Aljava Infernal Ilimitada
+ItemName.EndlessHolyArrow = Aljava Consagrada Ilimitada
+ItemName.EndlessCursedArrow = Aljava Almadiçoada Ilimitada
+ItemName.EndlessFrostburnArrow = Aljava de Queimadura de Frio Ilimitada
+ItemName.EndlessChlorophyteArrow = Aljava de Clorofita Ilimitada
+ItemName.EndlessIchorArrow = Aljava de Ichor Ilimitada
+ItemName.EndlessVenomArrow = Aljava Venenosa Ilimitada
+ItemName.EndlessBoneArrow = Aljava de Ossos Ilimitada
+ItemName.EndlessLuminiteArrow = Aljava de Luminita Ilimitada
+
+ItemName.EndlessMeteorShot = Bolsa de Balas de Meteoro Sem Fim
+ItemName.EndlessSilverBullet = Bolsa de Balas de Prata Sem Fim
+ItemName.EndlessCrystalBullet = Bolsa de Balas de Cristal Sem Fim
+ItemName.EndlessCursedBullet = Bolsa de Balas Amaldiçoadas Sem Fim
+ItemName.EndlessChlorophyteBullet = Bolsa de Balas de Clorofita Sem Fim
+ItemName.EndlessHighVelocityBullet = Bolsa Infinita de Alta Velocidade
+ItemName.EndlessIchorBullet = Bolsa de Balas de Ichor Sem Fim
+ItemName.EndlessVenomBullet = Bolsa de Balas Venenosas Sem Fim
+ItemName.EndlessPartyBullet = Bolsa de Balas de Festa Sem Fim
+ItemName.EndlessNanoBullet = Bolsa de Balas Nano Sem Fim
+ItemName.EndlessExplodingBullet = Bolsa de Balas Explosivas Sem Fim
+ItemName.EndlessGoldenBullet = Bolsa de Balas Douradas Sem Fim
+ItemName.EndlessLuminiteBullet = Bolsa de Balas de Luminita Sem Fim
+
+// Arena
+ItemName.AsphaltPlatform = Plataforma de Asfalto
+ItemTooltip.AsphaltPlatform = Aumenta a velocidade de corrida
+
+ItemName.PreperationStation = Estação de Preparação
+ItemTooltip.PreperationStation = Clique com o botão direito para aumentar a penetração de armadura para armas corpo-a-corpo, reduzir o uso de munição, aumentar os poderes mágicos e ter mais lacaios\nNão é consumido ao ser colocado\n'Também faz batatinhas fritas! '
+
+ItemName.BuffBrazier = Braseiro de Buffs
+ItemTooltip.BuffBrazier = Aumenta sua regeneração de vida, regeneração de mana, velocidade de movimento e reduz a taxa de surgimento de inimigos quando próximo\nFornece uma quantidade decente de luz\nNão é consumido ao ser colocado
+
+// Apps
+ItemName.WormholeApp = Aplicativo Buraco de Minhoca
+ItemTooltip.WormholeApp = Fornece um efeito de buraco de minhoca infinito quando instalado em um telefone celular\n{$ Mods.PboneUtils.Common.AppInfo}
+
+ItemName.TeleportationApp = Aplicativo Teleportador
+ItemTooltip.TeleportationApp = Permite que você se teleporte segurando o telefone celular e clicando com o botão direito quando instalado em um telefone celular\n{$ Mods.PboneUtils.Common.AppInfo}
+
+// Bait
+ItemName.BagOfWorms = Saco de Vermes
+ItemTooltip.BagOfWorms = Não consumido quando usado como isca
+
+ItemName.Infiniworm = A Infininhoca
+ItemTooltip.Infiniworm = Não consumido quando usado como isca\ n'Iluminismo'
+
+// Terraforming
+ItemName.Gigaxe = Gigachado
+ItemTooltip.Gigaxe = Clique e arraste para selecionar uma área\nTodas as árvores na área selecionada são cortadas instantaneamente
+
+// Misc
+ItemName.VoidPiggy = Porco do Vazio
+ItemTooltip.VoidPiggy = Quando transportado, as moedas são enviadas automaticamente para seu cofrinho \ nVocê deve ter pelo menos uma moeda em seu cofrinho para que funcione \ n {$ Mods.PboneUtils.Common.CanBeToggled} \ n'An uma importação exótica! '
+
+ItemName.PhilosophersStone = Matéria-Prima
+ItemTooltip.PhilosophersStone = Quando segurado em sua mão e habilitado, os itens recolhidos são automaticamente vendidos \n{$ Mods.PboneUtils.Common.CanBeToggled}\ n'Immortalidade não incluída '
+
+ItemName.FlameOfBattle = Chama de Batalha
+ItemTooltip.FlameOfBattle = Aumenta bastante as taxas e o limite de surgimento de criaturas\n{$ Mods.PboneUtils.Common.CanBeToggled}
+
+ItemName.FlameOfPeace = Chama da Paz
+ItemTooltip.FlameOfPeace = Diminui significativamente as taxas e o limite de surgimento de criaturas\n{$ Mods.PboneUtils.Common.CanBeToggled}
+
+ItemName.GreaterStaffOfRegrowth = Plano Verde
+ItemTooltip.GreaterStaffOfRegrowth = Clique com o botão esquerdo e arraste para colher ervas em uma área
+
+ItemName.ShadowPearl = Sombra-Pérola
+ItemTooltip.ShadowPearl = Funciona como um altar demoníaco para criações
+
+ItemName.InfiniteMana = Mana Infinita
+ItemTooltip.InfiniteMana = 35% de redução de danos\nDefine seus slots de lacaios para um\nConcede mana infinita
+
+ItemName.StarMagnet = Ímã-Estrela
+ItemTooltip.StarMagnet = Aumenta significativamente a taxa de queda de estrelas\n{$ Mods.PboneUtils.Common.CanBeToggled}\n'Cuidado com as estrelas cadentes '
+
+ItemName.GreedyChest = Baú Ganancioso
+ItemTooltip.GreedyChest = Impede com que os inimigos deixem cair moedas\ n {$ Mods.PboneUtils.Common.CanBeToggled}\n'Om nom nom'
+
+ItemName.MagicLight = Luz Mágica
+ItemTooltip.MagicLight = Coloca infinitas luzes invisíveis\nClique com o botão direito para mudar a cor da luz\nLuzes podem ser vistas enquanto este item está habilitado, e vistas o tempo todo enquanto é segurada\n\n {$ Mods.PboneUtils.Common.CanBeToggled}\n"Que Haja luz!"
+
+
+// NPCS
+TownChat.MysteriousTrader.1 = O que você quer dizer, eu sou um mutante?
+TownChat.MysteriousTrader.2 = Você já viu uma estátua de anjo voar? Infelizmente, sim.
+TownChat.MysteriousTrader.3 = Eu ando em uma linha tênue entre vender lixo e golpes.
+TownChat.MysteriousTrader.4 = Diga, você não acha que eu poderia me mudar? Estou em um clube que não para de falar sobre casas.
+TownChat.MysteriousTrader.5 = Mamãe diz que eu deveria aprender sobre algo além de suportes estruturais. Ela está errada.
+TownChat.MysteriousTrader.6 = Eu vendo mercadorias do meu porão. Não pergunte.
+TownChat.MysteriousTrader.7 = Apresse-se e compre algo, essas vestes não se costuram sozinhas!
+TownChat.MysteriousTrader.8 = Quantos cultistas são necessários para invocar Cthulhu? Não, espere, você não me ouviu dizer isso.
+TownChat.MysteriousTrader.9 = Eu vendo muitos itens raros .... de Cthulhu!
+
+TownChat.Miner.1 = Ooo, brilhante!
+TownChat.Miner.2 = Por que não faço mineração com explosivos? Isso estraga o minério, é claro!
+TownChat.Miner.3 = Minha picareta é a mais antiga e a melhor dessas terras!
+TownChat.Miner.4 = Você sabe, eu poderia estar transformando esse ouro em moedas.
+TownChat.Miner.5 = Onde obtenho meus minérios se nunca estou minerando? Eu mantenho todos eles na minha mochila.
+TownChat.Miner.6 = Ouvi dizer que há uma planta feita de metal sólido que você pode cultivar nas condições certas!
+TownChat.Miner.HardmodeOnly = Confira meu minério de cobalto; é extra brilhante.
+
+
+// BUFFS
+BuffName.PreperationStationBuff = Preparado
+BuffDescription.PreperationStationBuff = Efeitos da Estação de Afiação, Caixa de Munição, Bola de Cristal e Mesa de Encantamento\nDesativa os buffs de estações individuais
+
+BuffName.BuffBrazierBuff = Empowered
+BuffDescription.BuffBrazierBuff = Efeitos de Fogueiras, Lanternas de Corações, Estrelas na Garrafa, Girassóis e Mel\nDesativa os buffs individuais
+
+
+// TILES
+MapObject.PetrifiedSafeTile = Cofre petrificado
+MapObject.AsphaltPlatformTile = Plataforma de Asfalto
+MapObject.PreperationStationTile = Estação de Preparação
+MapObject.BuffBrazierTile = Braseiro de Buffs
+MapObject.ShadowPearlTile = Sombra-Pérola
+
+
+// WORLDGEN
+WorldGen.PetrifiedSafes = Escondendo cofres ...
+
+
+// UI
+UI.EndlessBuffTogglerInventoryButton.MouseOver = Ativador de Buffs Infinitos
+UI.EndlessBuffToggler.DescriptionPlaceholder = Clique em um botão para ver as informações sobre ele.
+UI.EndlessBuffToggler.DescriptionName = Nome
+UI.EndlessBuffToggler.DescriptionSource = Fonte
+UI.EndlessBuffToggler.DescriptionDescription = Dica de Ferramenta
+UI.EndlessBuffToggler.DescriptionHowToDisable = (clique com o botão direito no ícone de buff enquanto selecionado para alternar)
+
+UI.EndlessBuffSource.Inventory = Inventário
+UI.EndlessBuffSource.PiggyBank = Porquinho
+UI.EndlessBuffSource.Safe = Cofre
+UI.EndlessBuffSource.DefendersForge = Forja do Defensor
+
+
+// CONFIG
+Config.Header.MiscFeatures = Recursos de QoL
+Config.Header.ItemToggles = Alternância de itens
+Config.Header.MiscItemToggles = Alternância de item únicos/variados
+Config.Header.NPCs = NPCs úteis
+Config.Header.QolRecipes = Receitas QoL
+
+Config.Label.AgetherBossBagsSlider = Tentativas de simulação de bolsa de tesouro
+Config.Label.AgetherBossBags = Valores médios de bolsa de tesouro
+Config.Label.ExtraBuffSlots = Slots de Buff Extras
+Config.Label.EndlessPotions = Poções infinitas
+Config.Label.EndlessPotionsSlider = Quantidade infinita de poção
+Config.Label.AutoswingOnEverything = Autoswing Global
+Config.Label.AutoswingOnEverythingBlacklist = Bloqueio de Autoswing Global
+Config.Label.MaxStackIncrease = Aumento do tamanho máximo da pilha
+Config.Label.NoMoreGraves = Remoção de túmulos
+Config.Label.FastRespawn = Reaparecimento rápido
+Config.Label.FastRespawnDuringBoss = Reaparecimento rápido contra Chefes
+
+Config.Label.StorageItemsToggle = Itens de armazenamento
+Config.Label.LiquidItemsToggle = Itens líquidos
+Config.Label.ArenaItemsToggle = Itens de Arena
+Config.Label.MagnetItemsToggle = Itens de ímã
+Config.Label.AmmoItemsToggle = Itens de munição
+Config.Label.WorldControlItemsToggle = Itens de Controle Mundial
+Config.Label.CellPhoneAppsToggle = Aplicativos para celular
+Config.Label.EndlessBaitToggle = Isca sem fim
+
+Config.Label.VoidPiggyToggle = Porco do Vazio
+Config.Label.PhilosophersStoneToggle = Matéria-Prima
+Config.Label.SpawnRateItemsToggle = Itens da Taxa de Surgimento
+Config.Label.GreaterStaffOfRegrowthToggle = Plano Verde
+Config.Label.ShadowPearlToggle = Sombra-Pérola
+Config.Label.InfiniteManaToggle = Mana Infinita
+Config.Label.StarMagnetToggle = Íma-Estrela
+Config.Label.GreedyChestToggle = Baú Ganancioso
+Config.Label.MagicLightToggle = Luz Mágica
+
+Config.Label.MysteriousTrader = Comerciante Misterioso
+Config.Label.Miner = Mineiro
+
+Config.Label.RecipeEndlessWater = Receitas para Balde Sem Fundo com Água
+Config.Label.RecipePetrifiedSafe = Receitas para o Cofre Petrificado
+
+Config.Tooltip.A hundredBossBags = Se ativado, as bolsas do tesouro serão vendidas pela média de seus drops. Nota: isso pode mudar entre recarregamentos devido à forma como o cálculo é feito
+Config.Tooltip.AadiseBossBagsSlider = A quantidade de aberturas de bolsa que deve ser simuladas ao calcular a média dos valores da sacola do tesouro do chefe.\nValores mais altos produzem resultados mais consistentes, mas aumentam o tempo de carregamento do jogo
+Config.Tooltip.ExtraBuffSlots = A quantidade de buffs a serem adicionados ao padrão de 22 (há 11 buffs por linha)
+Config.Tooltip.EndlessPotions = Se ativado, ao ter a quantidade especificada de poções em seu inventário ou em armazenamento pessoal lhe dará o buff infinitamente (ou, no caso de poções de cura, não será consumido)\nNOTA: Acima de 30 apenas se você tem "Aumentar tamanho máximo da pilha" habilitado
+Config.Tooltip.EndlessPotionsSlider = A quantidade de poções necessárias para buffs infinitos (ou cura)
+Config.Tooltip.AutoswingOnEverything = Ativar ou desativar autoswing global (isto é, autotiro, autoreuso etc.)
+Config.Tooltip.AutoswingOnEverythingBlacklist = Itens a serem ignorados pelo Autoswing global (se habilitado)
+Config.Tooltip.MaxStackIncrease = Se ativado, a maioria dos itens terá seu tamanho máximo de pilha aumentado
+Config.Tooltip.NoMoreGraves = Se ativado, evita que sepulturas sejam geradas
+Config.Tooltip.FastRespawn = Se ativado, você reaparece muito mais rápidamente
+Config.Tooltip.FastRespawnDuringBoss = Se ativado, você reaparece muito mais rapidamente, mesmo durante as lutas de chefe
+
+Config.Tooltip.StorageItemsToggle = Ative ou não os itens de armazenamento deste mod, que permitem que você acesse armazenamentos pessoais em qualquer lugar
+Config.Tooltip.LiquidItemsToggle = Ative ou não os itens líquidos deste mod, que permitem colocar e absorver quantidades infinitas de lava ou mel
+Config.Tooltip.AmmoItemsToggle = Ative ou não os itens de munição infinitos deste mod
+Config.Tooltip.ArenaItemsToggle = Ative ou não os blocos de arena deste mod, que aumentam-nas e as compactam
+Config.Tooltip.MagnetItemsToggle = Ative ou não os itens magnéticos deste mod, que aumentam seu alcance de coleta de itens
+Config.Tooltip.WorldControlItemsToggle = Ative ou não os itens de controle mundial deste mod, que podem mudar a hora, clima e mais
+Config.Tooltip.CellPhoneAppsToggle = Ative ou não os aplicativos de telefone celular, atualizações para o telefone celular que fornecem funcionalidades extras para o mesmo
+Config.Tooltip.EndlessBaitToggle = Ative ou não a Isca sem Fim, que faz exatamente aquilo que você imagina que faça
+
+Config.Tooltip.VoidPiggyToggle = Ative ou não o item Porco do Vazio, que envia moedas coletadas para o seu porquinho
+Config.Tooltip.PhilosophersStoneToggle = Ative ou não o item Matéria-Prima, que permite a venda de itens recolhidos
+Config.Tooltip.SpawnRateItemsToggle = Ative ou bão a Chama de Batalha e a Chama da Paz, itens que aumentam ou diminuem a taxa de surgimento, respectivamente
+Config.Tooltip.GreaterStaffOfRegrowthToggle = Ative ou não o item Plano Verde, que lhe ajuda na colheita de plantas
+Config.Tooltip.ShadowPearlToggle = Ative ou Não o item Sombra-Pérola, que funciona como um altar demoníaco específico para criações
+Config.Tooltip.InfiniteManaToggle = Habilitar ou desabilitar o acessório Mana Infinita, que lhe concede mana infinita
+Config.Tooltip.StarMagnetToggle = Ative ou Não o item Íma-Estrela, que aumenta a taxa de queda de estrelas
+Config.Tooltip.GreedyChestToggle = Ative ou não o Baú Ganancioso, que impede que os inimigos deixem cair moedas
+Config.Tooltip.MagicLightToggle = Ative ou não a Luz Mágica, que coloca infinitas luzes invisíveis de muitas cores distintas
+
+Config.Tooltip.MysteriousTrader = Habilitar ou desabilitar o Mysterious Trader, um NPC que ocasionalmente aparecerá para vender itens raros
+Config.Tooltip.Miner = Habilitar ou desabilitar o Miner, um NPC que vende minérios e gemas
+
+Config.Tooltip.RecipeEndlessWater = Ative ou não Balde de Água Sem Fim e Receitas de Esponja Superabsorvente
+Config.Tooltip.RecipePetrifiedSafe = Ative ou não uma receita simples para o Cofre Petrificado\n(Por padrão, durante a geração do mundo, Cofres Petrificados são gerados no submundo)
+
+Census.Description.Miner = Derrote Devorador de Mundos/Cérebro de Cthulhu
+Census.Description.MysteriousTrader = Chega aleatoriamente de manhã e sai à noite, após derrotar o Rei Geleia ou Olho de Cthulhu
+
+
+// MESSAGES
+Message.PetrifiedSafeDisabled1 = Itens de armazenamento foram desativados nas configurações!
+Message.PetrifiedSafeDisabled2 = Se você deseja um cofre portátil, habilite os itens de armazenamento nas configurações do mod.
+
+
+// MISC
+Common.Enabled.True = Ativado
+Common.Enabled.False = Desativado
+Common.CanBeToggled = Clique com o botão direito em seu inventário para ativar ou desativar
+Common.AppInfo = Pode ser instalado em um telefone celular pegando-o com o mouse e clicando com o botão direito em um telefone celular em seu inventário
+Common.CellPhoneInfo = Os aplicativos podem ser instalados ao pegá-lo com o mouse e clicando com o botão direito no telefone celular em seu inventário\nAplicativos instalados atualmente:
+Common.CellPhone.Wormhole = [i: 2997] Aplicativo Buraco de Minhoca: ​​fornece um efeito de buraco de minhoca infinito
+Common.CellPhone.Teleportation = [i: 2351] Aplicativo Teleportador: permite que você se teleporte segurando o telefone celular e clicando com o botão direito
